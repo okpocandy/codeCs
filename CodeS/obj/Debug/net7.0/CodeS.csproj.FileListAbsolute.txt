@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\cShop\test_cShop\CodeS\bin\Debug\net7.0\CodeS.exe
+C:\Users\user\Desktop\cShop\test_cShop\CodeS\bin\Debug\net7.0\CodeS.deps.json
+C:\Users\user\Desktop\cShop\test_cShop\CodeS\bin\Debug\net7.0\CodeS.runtimeconfig.json
+C:\Users\user\Desktop\cShop\test_cShop\CodeS\bin\Debug\net7.0\CodeS.dll
+C:\Users\user\Desktop\cShop\test_cShop\CodeS\bin\Debug\net7.0\CodeS.pdb
+C:\Users\user\Desktop\cShop\test_cShop\CodeS\obj\Debug\net7.0\CodeS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\cShop\test_cShop\CodeS\obj\Debug\net7.0\CodeS.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\cShop\test_cShop\CodeS\obj\Debug\net7.0\CodeS.AssemblyInfo.cs
+C:\Users\user\Desktop\cShop\test_cShop\CodeS\obj\Debug\net7.0\CodeS.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\cShop\test_cShop\CodeS\obj\Debug\net7.0\CodeS.dll
+C:\Users\user\Desktop\cShop\test_cShop\CodeS\obj\Debug\net7.0\refint\CodeS.dll
+C:\Users\user\Desktop\cShop\test_cShop\CodeS\obj\Debug\net7.0\CodeS.pdb
+C:\Users\user\Desktop\cShop\test_cShop\CodeS\obj\Debug\net7.0\CodeS.genruntimeconfig.cache
+C:\Users\user\Desktop\cShop\test_cShop\CodeS\obj\Debug\net7.0\ref\CodeS.dll
