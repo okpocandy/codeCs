@@ -9,8 +9,11 @@
 
   <ItemGroup>
     <Compile Remove="Class1.cs" />
+    <Compile Remove="cS13_6.cs" />
     <Compile Remove="cS6_2.cs" />
     <Compile Remove="cS7_5.cs" />
+    <Compile Remove="cSE13_1.cs" />
+    <Compile Remove="DelegateTest.cs" />
     <Compile Remove="Program.cs" />
   </ItemGroup>
 
@@ -18,7 +21,13 @@
     <None Include="Class1.cs" />
     <None Include="cS6_2.cs" />
     <None Include="cS7_5.cs" />
+    <None Include="cSE13_1.cs" />
+    <None Include="DelegateTest.cs" />
     <None Include="Program.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="cS13_6.cs" />
   </ItemGroup>
 
 </Project>
