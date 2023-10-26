@@ -13,6 +13,15 @@
     <Compile Remove="cS6_2.cs" />
     <Compile Remove="cS7_5.cs" />
     <Compile Remove="cSE13_1.cs" />
+    <Compile Remove="cSE16_2.cs" />
+    <Compile Remove="Cs_200\Day1\3.cs" />
+    <Compile Remove="Cs_200\Day1\Class1.cs" />
+    <Compile Remove="Cs_200\Day1\_11.cs" />
+    <Compile Remove="Cs_200\Day1\_18.cs" />
+    <Compile Remove="Cs_200\Day1\_23.cs" />
+    <Compile Remove="Cs_200\Day1\_25.cs" />
+    <Compile Remove="Cs_200\Day1\_26.cs" />
+    <Compile Remove="Cs_200\Day1\_8.cs" />
     <Compile Remove="DelegateTest.cs" />
     <Compile Remove="Program.cs" />
   </ItemGroup>
@@ -22,12 +31,24 @@
     <None Include="cS6_2.cs" />
     <None Include="cS7_5.cs" />
     <None Include="cSE13_1.cs" />
+    <None Include="cSE16_2.cs" />
+    <None Include="Cs_200\Day1\3.cs" />
+    <None Include="Cs_200\Day1\Class1.cs" />
+    <None Include="Cs_200\Day1\_11.cs" />
+    <None Include="Cs_200\Day1\_23.cs" />
+    <None Include="Cs_200\Day1\_25.cs" />
+    <None Include="Cs_200\Day1\_26.cs" />
+    <None Include="Cs_200\Day1\_8.cs" />
     <None Include="DelegateTest.cs" />
     <None Include="Program.cs" />
   </ItemGroup>
 
   <ItemGroup>
     <None Include="cS13_6.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="Cs_200\Day1\_18.cs" />
   </ItemGroup>
 
 </Project>
